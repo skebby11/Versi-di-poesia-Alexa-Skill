@@ -1,0 +1,58 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "verso poetico",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "un verso poetico",
+                        "un verso della poesia",
+                        "dei versi poetici",
+                        "dirmi un verso poetico",
+                        "darmi un verso",
+                        "dimmi un verso poetico",
+                        "dimmi un verso della poesia",
+                        "raccontami un verso poetico",
+                        "dirmi un verso poetico",
+                        "darmi del verso",
+                        "darmi qualche verso",
+                        "darmi qualche verso di poesia",
+                        "dirmi una poesia",
+                        "darmi una poesia",
+                        "dimmi un verso della poesia",
+                        "dimmi un verso di poesia",
+                        "dammi un verso",
+                        "dammi un verso poetico",
+                        "dammi un verso della poesia",
+                        "dammi un pezzo di trivia",
+                        "dimmi dei versi poetici",
+                        "dammi della poesia",
+                        "dammi qualche verso",
+                        "dammi qualche verso della poesia",
+                        "dimmi qualcosa",
+                        "dammi qualcosa"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}

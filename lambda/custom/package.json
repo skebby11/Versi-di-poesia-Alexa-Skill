@@ -1,0 +1,19 @@
+{
+  "name": "versi-di-poesia",
+  "version": "1.0.0",
+  "description": "Chiedi ad Alexa versi di poesie famose in tutte il mondo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poesia",
+    "versi",
+    "poeti"
+  ],
+  "author": "Sebastiano Riva",
+  "license": "CC BY-NC-ND",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}
